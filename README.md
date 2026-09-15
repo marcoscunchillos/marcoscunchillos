@@ -14,9 +14,11 @@ My main focus is on **Environmental Health and Exposomics**. I am passionate abo
 - 🔬 **Long-term (2028+):** Aiming to pursue a PhD in Computational Environmental Health, Exposomics, Genomic Epidemiology, or Data Toxicology.
 
 **🛠️ Tech Stack & Tools (In Progress)**
-- **Languages:** Python, R (Learning)
-- **Environments:** Linux
-- **Concepts:** Statistical Inference, Linear Algebra, Computational Thinking
+*(Currently building foundations in Computational Thinking and Linear Algebra)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **📫 Let's Connect!**
 - 💼 [LinkedIn](www.linkedin.com/in/marcos-cunchillos-just-3057983a5)
