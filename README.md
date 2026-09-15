@@ -10,7 +10,7 @@ My main focus is on **Environmental Health and Exposomics**. I am passionate abo
 
 **🚀 Current Journey & Goals**
 - 🎓 **Currently:** Pursuing a Master's in Bioinformatics and Biostatistics at UOC (Universitat Oberta de Catalunya) (2026 - 2028). Building strong foundations in Computational Thinking, Linear Algebra, and Data Analysis Software.
-- 🌍 **Next step (2027):** I am actively seeking an **Erasmus+ internship** in a European laboratory focused on environmental health, genomics, metagenomics, or physiological responses to stressors.
+- 🌍 **Next step (2027):** I am actively seeking an internship in a European laboratory focused on environmental health, genomics, metagenomics, or physiological responses to stressors.
 - 🔬 **Long-term (2028+):** Aiming to pursue a PhD in Computational Environmental Health, Exposomics, Genomic Epidemiology, or Data Toxicology.
 
 **🛠️ Tech Stack & Tools (In Progress)**
