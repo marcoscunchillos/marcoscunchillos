@@ -6,7 +6,7 @@ I am a Biology graduate currently transitioning into a hybrid computational role
 
 **🌱 My Scientific Interests**
 
-My main focus is on **Environmental Health and Exposomics**. I am passionate about understanding how environmental factors, chemical pollutants, microplastics, and the microbiome impact human physiology and global health under the **One Health** framework. However, I maintain an open mind to applying data science to other branches of life sciences.
+My main focus is on **Environmental Health and Exposomics**. I am passionate about understanding how environmental factors, chemical pollutants, microplastics, and the microbiome impact human physiology under the **One Health** framework. However, I maintain an open mind to applying data science to other branches of life sciences.
 
 **🚀 Current Journey & Goals**
 - 🎓 **Currently:** Pursuing a Master's in Bioinformatics and Biostatistics at UOC (Universitat Oberta de Catalunya) (2026 - 2028). Building strong foundations in Computational Thinking, Linear Algebra, and Data Analysis Software.
