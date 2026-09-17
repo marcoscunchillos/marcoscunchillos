@@ -8,11 +8,6 @@ I am a Biology graduate currently transitioning into a hybrid computational role
 
 My main focus is on **Environmental Health and Exposomics**. I am passionate about understanding how environmental factors, chemical pollutants, microplastics, and the microbiome impact human physiology under the **One Health** framework. However, I maintain an open mind to applying data science to other branches of life sciences.
 
-**🚀 Current Journey & Goals**
-- 🎓 **Currently:** Pursuing a Master's in Bioinformatics and Biostatistics at UOC (Universitat Oberta de Catalunya) (2026 - 2028). Building strong foundations in Computational Thinking, Linear Algebra, and Data Analysis Software.
-- 🌍 **Next step (2027):** I am actively seeking an internship in a European laboratory focused on environmental health, genomics, metagenomics, or physiological responses to stressors.
-- 🔬 **Long-term (2028+):** Aiming to pursue a PhD in Computational Environmental Health, Exposomics, Genomic Epidemiology, or Data Toxicology.
-
 **🛠️ Tech Stack & Tools (In Progress)**
 *(Currently building foundations in Computational Thinking and Linear Algebra)*
 
