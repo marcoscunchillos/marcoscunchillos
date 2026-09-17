@@ -8,12 +8,22 @@ I am a Biology graduate currently transitioning into a hybrid computational role
 
 My main focus is on **Environmental Health and Exposomics**. I am passionate about understanding how environmental factors, chemical pollutants, microplastics, and the microbiome impact human physiology under the **One Health** framework. However, I maintain an open mind to applying data science to other branches of life sciences.
 
-**🛠️ Tech Stack & Tools (In Progress)**
+### 🛠️ Languages & Tools (In Progress)
 *(Currently building foundations in Computational Thinking and Linear Algebra)*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+**Environment & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 **📫 Let's Connect!**
 - 💼 [LinkedIn](www.linkedin.com/in/marcos-cunchillos-just-3057983a5)
